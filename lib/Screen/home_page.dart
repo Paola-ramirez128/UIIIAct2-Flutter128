@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
           SizedBox(height: size.height * 0.09),
           Column(
             children: [
-              Text("Juan Hernandez", style: TextStyle(fontSize: 20)),
+              Text("Artesanias Mexa", style: TextStyle(fontSize: 20)),
               Text(
                 "Vendedor de artesanias",
                 style: TextStyle(
@@ -141,7 +141,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         fit: BoxFit.cover,
                       ),
                       SizedBox(height: 2),
-                      Text("Compra"),
+                      Text("Venta"),
                       Row(
                         children: [
                           Image.network(
